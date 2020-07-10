@@ -1,0 +1,21 @@
+#game_header {
+    border-radius: 10px;
+    border: 1px solid;
+    background: rgb(0,0,0);
+    background: linear-gradient(207deg, rgba(113,113,113,1) 0%, rgba(29,29,29,1) 50%, rgba(113,113,113,1) 100%);
+}
+
+#main_menu {
+    widgt: 800;
+    height: 600;
+    margin: 3px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid;
+    background: rgb(0,0,0);
+    background: linear-gradient(207deg, rgba(113,113,113,1) 0%, rgba(29,29,29,1) 50%, rgba(113,113,113,1) 100%);
+}
+
+.button:hover {
+    background: rgb(55, 129, 125);
+}
